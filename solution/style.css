@@ -1,0 +1,6 @@
+:root {
+    --clr-bg-primary: hsl(30, 38%, 92%);
+    --clr-primary: hsl(158, 36%, 37%);
+    --ff-primary: font-family: 'Montserrat', sans-serif;
+    --ff-secondary: font-family: 'Fraunces', serif;
+} 
